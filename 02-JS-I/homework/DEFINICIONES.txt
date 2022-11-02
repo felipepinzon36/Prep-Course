@@ -1,0 +1,25 @@
+DEFINICIONES JAVA SCRIPT I
+
+
+Variables:  Es un espacio que se reserva en la memoria para guardar algo y ese espacio tiene un nombre y yo puedo recuperar y ver lo que hay alli cuando lo desee.
+
+String: Es un bloque de texto de se pone entre comillas dobles o simples, se le llama tambien string o cadena de caracteres.
+
+Funciones (argumentos, return):
+
+Las funciones son grupos de lineas de codigo o puede ser una sola linea, que las podemos reutilizar cada vez que 
+queramos, ahorrandonos tiempo y haciendo que nuestro codigo se vea mas profesional.
+
+Declaraciones if
+
+Las declaraciones if nos permiten evaluar condiciones para controlar el flujo del codigo, tomar desiciones
+y entregar una respuesta, cuando esta sea encontrada. 
+
+
+Valores Booleanos (true, false)
+
+
+Nos permiten saber si una condicion se cumple o no para determinar que lineas debemos usar o cuales no
+o si ya nuestro codigo cumplio su objetivo y puede mostrar la solucion.
+
+ 
