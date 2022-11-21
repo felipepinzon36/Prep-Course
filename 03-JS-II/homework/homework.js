@@ -257,6 +257,7 @@ function tieneTresDigitos(numero){
   //Este es un comentario para crear un cambio a proposito
   //Este es un comentario para crear un cambio a proposito
   //Este es un comentario para crear un cambio a proposito
+  //Este es un comentario para crear un cambio a proposito
   if (numero/100 >= 1 && numero / 100 < 10){
     return true;
   }else if (numero/100 <= -1 && numero / 100 > -10){
